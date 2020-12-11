@@ -104,7 +104,12 @@ Para executar a aplicação execute o server do laravel:
 Logo em seguida acesse a URL:
 
     http://localhost:8000/
-      
+
+Os dados para login do usuário são:
+
+    email: admin@admin.com
+    senha: 123456
+
 Execução dos testes unitários:
 
     php artisan test
