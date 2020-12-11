@@ -28,7 +28,7 @@ Após a instalação copie o arquivo .env.example (Caso esteja em um ambiente li
     
 Utilize o seguinte comando para subir a aplicação usando docker-compose:
 
-    docker-compose --build    
+    docker-compose up --build    
 
 Logo em seguinte execute o comando abaixo para rodar as migrations do projeto:
 
