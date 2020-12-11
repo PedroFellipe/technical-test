@@ -16,7 +16,7 @@ A instalação do projeto pode ser muito simples utilizando o docker-composer, v
 
 Clone o projeto:
 
-    https://github.com/PedroFellipe/technical-test.git
+    git clone https://github.com/PedroFellipe/technical-test.git
     
 Após efetuar o clone do projeto acesse a pasta e rode o seguinte comando para instalar as dependências:
 
@@ -60,7 +60,7 @@ Caso você prefira fazer a instalação do projeto sem utilizar o docker, poder�
 
 Clone o projeto:
 
-    https://github.com/PedroFellipe/netshowme-test.git
+    git clone https://github.com/PedroFellipe/technical-test.git
 
 Após efetuar o clone do projeto acesse a pasta e rode o seguinte comando para instalar as dependências:
 
