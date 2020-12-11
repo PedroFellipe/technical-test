@@ -12,7 +12,7 @@ Tecnologias utilizadas:
 Instação e execução do projeto
 ------------
 
-A instalação do projeto pode ser muito simples utilizando o docker-composer, você deve apenas seguir este passo a passo:
+A instalação do projeto pode ser muito simples utilizando o docker-compose, você deve apenas seguir este passo a passo:
 
 Clone o projeto:
 
